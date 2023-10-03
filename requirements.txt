@@ -155,7 +155,7 @@ typing_extensions==4.7.1
 tzdata==2023.3
 uc-micro-py==1.0.2
 unstructured==0.9.0
-urllib3==1.26.16
+urllib3==1.26.17
 uvicorn==0.23.2
 wcwidth==0.2.6
 websockets==11.0.3
